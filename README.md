@@ -12,3 +12,5 @@ context of use case.
 To understand human language the machine will be required to perform a lot of tasks. The first task at hand
 is tokenization where we segment a sentence into respective words. the purpose for this is to ensure that we
 represent each word as a token in a vector space.
+
+------------------------------TO BE CONTINUED----------------------------------------------------------------
